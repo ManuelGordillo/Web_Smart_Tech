@@ -24,7 +24,7 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
 
 ## SAMSUNG
 
-    # S25ULTRA
+    # S25ULTRA 12Ram/256Gb - 12Ram/512Gb
     # S24 ULTRA
     # S24 ULTRA
     # S24 Plus
