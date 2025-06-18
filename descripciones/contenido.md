@@ -25,63 +25,152 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
 ## SAMSUNG
 
     # S25ULTRA 12Ram/256Gb - 12Ram/512Gb
-    # S24 ULTRA
-    # S24 ULTRA
-    # S24 Plus
-    # S24 FE
-    # S24 FE 5G
+      Snapdragon 8 Elite 4.47GHz
+      Cámara 200MP+50MP+10MP+50MP
+      Bateria 5000 mAh
+    # S24 ULTRA 12Ram/256Gb - 12Ram/512Gb
+      Snapdragon 8 Gen 3 3.3GHz
+      Cámara 200MP+12MP+50MP+10MP
+      Bateria 5000 mAh
+    # S24 Plus 12Ram/256Gb
+      Snapdragon 8 Gen 3 3.3GHz
+      Cámara 50MP+12MP+10MP
+      Bateria 4900 mAh
+    # S24 FE 8Ram/512Gb
+      Exynos  2400e 3.1GHz
+      Cámara 50MP+12MP+8MP
+      Bateria 4700 mAh
     # Z FOLD 3
     # Z FLIP 4
-    # A26
-    # A26
-    # A56
-    # A56
-    # A52
-    # A36
-    # A23
-    # A22
-    # A16
-    # A16
-    # A12
-    # A12
-    # A06
-    # A06
-    # A05
-    # A03S
-    # M55
-    # M32
-    # M12
-    # M12
+      Snapdragon 8+ Gen 1 3.2GHz
+      Cámara 12MP+12MP
+      Bateria 3700 mAh
+    # A26 6Ram/128Gb - 8Ram/256Gb
+      Exynos 1380 2.4GHz
+      Cámara 50MP+8MP+2MP
+      Bateria 5000 mAh
+    # A56 8Ram/256Gb - 12Ram/256Gb
+      Exynos 1580 2.9GHz
+      Cámara 50MP+12MP+5MP
+      Bateria 5000 mAh
+    # A36 8Ram/256Gb
+      Snapdragon 6 Gen 3 2.4GHz
+      Cámara 50MP+8MP+5MP
+      Bateria 5000 mAh
+    # A16 4Ram/128Gb - 8Ram/256Gb
+      Exynos 1330 2.4GHz
+      Cámara 50MP+5MP+2MP
+      Bateria 5000 mAh
+    # A06 4Ram/64Gb - 4Ram/128Gb
+      Mediatek Helio G85 2GHz
+      Cámara 50MP+2MP
+      Bateria 5000 mAh
+    # A05 4Ram/128Gb
+      Mediatek Helio G85 2GHz
+      Cámara 50MP+12MP+5MP
+      Bateria 5000 mAh
+    # A03S 4Ram/64Gb
+      Mediatek Helio P35 2.35GHz
+      Cámara 13MP+2MP+2MP
+      Bateria 5000 mAh
+    # M55 8Ram/256Gb
+      Snapdragon 7 Gen 1 2.4GHz
+      Cámara 50MP+8MP+2MP
+      Bateria 5000 mAh
+    # M32 4Ram/128Gb
+      Mediatek Helio G80 2GHz
+      Cámara 64MP+8MP+2MP+2MP
+      Bateria 6000 mAh
+    # M12 6Ram/128Gb - 4Ram/128Gb
+      Exynos 850 2GHz
+      Cámara 48MP+5MP+2MP+2MP
+      Bateria 6000 mAh
 
 ## APPLE
 
-    # 16 PRO MAX chip
-    # 16 PRO MAX E-sim
-    # 16 PRO
-    # 16 PRO
-    # 16 PRO
-    # 16
-    # 16
-    # 16e
-    # 15
-    # 14 PLUS e-sim
-    # 14
-    # 13
-    # 12
-    # 12
-    # 12 MINI
-    # 11
-    # XR
-    # XR
-    # 8
-    # 7
+    # 16 PRO MAX 256GB chip Físico
+      Pantalla 6.9"
+      Apple A18 Pro
+      Cámara 48MP+48MP+12MP+ToF
+      Batería 4685 mAh
+    # 16 PRO MAX 256GB E-sim
+      Pantalla 6.9"
+      Apple A18 Pro
+      Cámara 48MP+48MP+12MP+ToF
+      Batería 4685 mAh
+    # 16 PRO 128Gb - 256Gb e-Sim
+      Pantalla 6.3"
+      Apple A18 Pro
+      Cámara 48MP+48MP+12MP+ToF
+      Batería 3582 mAh
+    # 16 PRO 128Gb - 256GB chip Físico
+      Pantalla 6.3"
+      Apple A18 Pro
+      Cámara 48MP+48MP+12MP+ToF
+      Batería 3582 mAh
+    # 16 128Gb - 256GB
+      Pantalla 6.1"
+      Apple A18
+      Cámara 48MP+12MP+ToF
+      Batería 3561 mAh
+    # 16e 128Gb
+      Pantalla 6.1"
+      Apple A18
+      Cámara 48MP
+      Batería 3961 mAh
+    # 15 128Gb
+      Pantalla 6.1"
+      Apple A16 Bionic
+      Cámara 48MP+12MP+ToF
+      Batería 3349 mAh
+    # 14 PLUS 128Gb e-sim
+      Pantalla 6.7"
+      Apple A15 Bionic
+      Cámara 12MP+12MP
+      Batería 4325 mAh
+    # 14 128Gb
+      Pantalla 6.1"
+      Apple A15 Bionic
+      Cámara 12MP+12MP
+      Batería 3279 mAh
+    # 13 128Gb
+      Pantalla 6.1"
+      Apple A15 Bionic
+      Cámara 12MP+12MP
+      Batería 3227 mAh
+    # 12 64Gb - 128Gb
+      Pantalla 6.7"
+      Apple A14 Bionic
+      Cámara 12MP+12MP
+      Batería 2815 mAh
+    # 11 128Gb
+      Pantalla 6.7"
+      Apple A13 Bionic
+      Cámara 12MP+12MP
+      Batería 3046 mAh
+    # XR 64Gb - 128Gb
+      Pantalla 6.1"
+      Apple A12 Bionic
+      Cámara 12MP
+      Batería 2942 mAh
 
 ## XIAOMI
 
-    # Xiaomi 15
-    # Xiaomi 14T PRO
-    # Xiaomi 14T
-    # Poco F7 Ultra
+    # Xiaomi 14T PRO 12Gb/512Gb
+      Pantalla 6.67"
+      Mediatek Dimensity 9300+ 3.4GHz
+      Cámara 50MP+12MP+50MP
+      Batería 5000 mAh
+    # Xiaomi 14T 12Gb/512Gb
+      Pantalla 6.67"
+      Mediatek Dimensity 8300 Ultra 3.35GHz
+      Cámara 50MP+12MP+50MP
+      Batería 5000 mAh
+    # Poco F7 Ultra 12Gb/512Gb
+      Pantalla 6.67"
+      Snapdragon 8 Elite 4.3GHz
+      Cámara 50MP+32MP+50MP
+      Batería 5300 mAh
     # Xiaomi 13 PRO
     # Xiaomi 12S ULTRA
     # Xiaomi 12 PRO
