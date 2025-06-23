@@ -196,12 +196,7 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
       Mediatek Dimensity 1200 3GHz
       Cámara 108MP+8MP+5MP
       Batería 5000 mAh
-    # POCO F7 PRO 12Gb/512Gb
-      Pantalla 6.67"
-      Snapdragon 8 Gen 3 3.3GHz
-      Cámara 50MP+8MP
-      Batería 6000 mAh
-    # POCO F7 PRO 12Gb/256Gb
+    # POCO F7 PRO 12Gb/256Gb-12Gb/512Gb
       Pantalla 6.67"
       Snapdragon 8 Gen 3 3.3GHz
       Cámara 50MP+8MP
@@ -221,14 +216,9 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
       Snapdragon 870 5G 3.2GHz
       Cámara 64MP+8MP+2MP
       Batería 4500 mAh
-    # POCO X7 PRO 12Gb/512Gb
+    # POCO X7 PRO 8Gb/256Gb-12Gb/512Gb
       Pantalla 6.67"
       Mediatek Dimensity 8400 Ultra 3.25GHz
-      Cámara 50MP+8MP
-      Batería 6000 mAh
-    # POCO X7 PRO 8Gb/256Gb
-      Pantalla 6.67"
-      MediaTek Dimensity 8400 Ultra 3.25GHz
       Cámara 50MP+8MP
       Batería 6000 mAh
     # POCO X7 12Gb/512Gb
@@ -241,12 +231,7 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
       Snapdragon 695 2.2GHz
       Cámara 108MP+8MP+2MP
       Batería 5000 mAh
-    # NOTE 14 PRO + 5G 12Gb/512Gb
-      Pantalla 6.67"
-      Snapdragon 7s Gen 3 2.5GHz
-      Cámara 200MP+8MP+2MP
-      Batería 5110 mAh
-    # NOTE 14 PRO + 5G 8Gb/256Gb
+    # NOTE 14 PRO + 5G 8Gb/256Gb-12Gb/512Gb
       Pantalla 6.67"
       Snapdragon 7s Gen 3 2.5GHz
       Cámara 200MP+8MP+2MP
@@ -271,12 +256,7 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
       MediaTek Dimensity 7025 Ultra 2.5GHz
       Cámara 108MP+8MP+2MP
       Batería 5110 mAh
-    # NOTE 14 8Gb/256Gb
-      Pantalla 6.67"
-      Mediatek Helio G99 Ultra 2.2GHz
-      Cámara 108MP+8MP+2MP
-      Batería 5500 mAh
-    # NOTE 14 6Gb/128Gb
+    # NOTE 14 6Gb/128Gb-8Gb/256Gb
       Pantalla 6.67"
       Mediatek Helio G99 Ultra 2.2GHz
       Cámara 108MP+8MP+2MP
@@ -291,27 +271,12 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
       Snapdragon 662 2GHz
       Cámara 48MP+8MP+2MP+2MP
       Batería 6000 mAh
-    # REDMI 14C 8Gb/256Gb
+    # REDMI 14C 4Gb/128Gb-4Gb/256Gb-8Gb/256Gb
       Pantalla 6.88"
       Mediatek Helio G81 2GHz
       Cámara 50MP+AUX
       Batería 5160 mAh
-    # REDMI 14C 4Gb/256Gb
-      Pantalla 6.88"
-      Mediatek Helio G81 2GHz
-      Cámara 50MP+AUX
-      Batería 5160 mAh
-    # REDMI 14C 4Gb/128Gb
-      Pantalla 6.88"
-      Mediatek Helio G81 2GHz
-      Cámara 50MP+AUX
-      Batería 5160 mAh
-    # REDMI A5 4Gb/128Gb
-      Pantalla 6.88"
-      Unisoc T7250 1.8GHz
-      Cámara 32MP+AUX
-      Batería 5200 mAh
-    # REDMI A5 3Gb/64Gb
+    # REDMI A5 3Gb/64Gb-4Gb/128Gb
       Pantalla 6.88"
       Unisoc T7250 1.8GHz
       Cámara 32MP+AUX
@@ -324,23 +289,81 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
 
 ## HONOR
 
-    # HONOR 200 12Gb/512Gb
-    # HONOR 200 12Gb/256Gb
+    # HONOR 200 12Gb/256Gb-12Gb/512Gb
+      Pantalla 6.7"
+      Snapdragon 7 Gen 3 2.63GHz
+      Cámara 50MP+12MP+50MP
+      Batería 5200 mAh
     # HONOR 200 PRO 12Gb/512Gb
+      Pantalla 6.78"
+      Snapdragon 8s Gen 3 3GHz
+      Cámara 50MP+12MP+50MP
+      Batería 5200 mAh
     # HONOR 70 8gb/256GB
+      Pantalla 6.67"
+      Snapdragon 778G+ 2.5GHz
+      Cámara 54MP+50MP+2MP
+      Batería 4800 mAh
     # HONOR 50 8Gb/256Gb
+      Pantalla 6.57"
+      Snapdragon 778G 2.4GHz
+      Cámara 108MP+8MP+2MP+2MP
+      Batería 4300 mAh
     # HONOR MAGIC 400 LITE 8Gb/256Gb
+      Pantalla 6.7"
+      MediaTek Dimensity 7025 Ultra 2.5GHz
+      Cámara 108MP+5MP
+      Batería 5230 mAh
     # HONOR 200 LITE 8Gb/256Gb
-    # HONOR MAGIC 7 LITE 8Gb/512Gb
-    # HONOR MAGIC 7 LITE 8Gb/256
-    # HONOR X8C
-    # HONOR X7C
-    # HONOR X6B PLUS
-    # HONOR X6B  5G
-    # HONOR X6B
-    # HONOR X5B
-    # HONOR X5B PLUS
-    # HONOR X5 Plus
+      Pantalla 6.7"
+      Mediatek Dimensity 6080 2.4GHz
+      Cámara 108MP+5MP+2MP
+      Batería 4500 mAh
+    # HONOR MAGIC 7 LITE 8Gb/256Gb-8Gb/512Gb
+      Pantalla 6.78"
+      Snapdragon 6 Gen 1 2.2GHz
+      Cámara 108MP+5MP
+      Batería 6600 mAh
+    # HONOR X8C 8Gb/256Gb
+      Pantalla 6.7"
+      Snapdragon 685 2.8GHz
+      Cámara 108MP+5MP
+      Batería 5000 mAh
+    # HONOR X7C 8Gb/256Gb
+      Pantalla 6.77"
+      Snapdragon 685 2.8GHz
+      Cámara 108MP+2MP
+      Batería 6000 mAh
+    # HONOR X6B PLUS 8Gb/256Gb
+      Pantalla 6.56"
+      MediaTek Helio G85 2GHz
+      Cámara 50MP+2MP+AUX
+      Batería 5200 mAh
+    # HONOR X6B  5G 4Gb/256Gb
+      Pantalla 6.77"
+      Snapdragon 4 Gen 2 2.2GHz
+      Cámara 50MP+2MP
+      Batería 5200 mAh
+    # HONOR X6B 6Gb/256Gb
+      Pantalla 6.56"
+      Mediatek Helio G85 2GHz
+      Cámara 50MP+2MP
+      Batería 5200 mAh
+    # HONOR X5B 4Gb/128Gb
+      Pantalla 6.56"
+      Mediatek Helio G36 2.2GHz
+      Cámara 13MP+Aux
+      Batería 5200 mAh
+    # HONOR X5B PLUS 4Gb/256Gb
+      Pantalla 6.56"
+      Mediatek Helio G36 2.2GHz
+      Cámara 50MP+Aux
+      Batería 5200 mAh
+    # HONOR X5 Plus 4Gb/64Gb
+      Pantalla 6.56"
+      Mediatek Helio G36 2.2GHz
+      Cámara 50MP+2MP
+      Batería 5200 mAh
 
 ## MOTOROLA
 
