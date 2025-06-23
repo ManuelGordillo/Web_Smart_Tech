@@ -171,48 +171,168 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
       Snapdragon 8 Elite 4.3GHz
       Cámara 50MP+32MP+50MP
       Batería 5300 mAh
-    # Xiaomi 13 PRO
-    # Xiaomi 12S ULTRA
-    # Xiaomi 12 PRO
-    # Xiaomi 12
-    # MI 11T
-    # POCO F7 PRO
-    # POCO F7 PRO
-    # MI 12 LITE
-    # POCO F6 PRO
-    # POCO F4
-    # POCO X7 PRO
-    # POCO X7 PRO
-    # POCO X7
-    # POCO X4 PRO
-    # NOTE 14 PRO + 5G
-    # NOTE 14 PRO + 5G
-    # NOTE 14 PRO 5G
-    # NOTE 14 PRO
-    # NOTE 14S
-    # NOTE 14 5G
-    # NOTE 14
-    # NOTE 14
-    # REDMI 10 5G
-    # REDMI 9T
-    # REDMI 14C
-    # REDMI 14C
-    # REDMI 14C
-    # REDMI A5
-    # REDMI A5
-    # REDMI A3X
+    # Xiaomi 13 PRO 12Gb/512Gb
+      Pantalla 6.73"
+      Snapdragon 8 Gen 2 3.2GHz
+      Cámara 50MP+50MP+50MP
+      Batería 4820 mAh
+    # Xiaomi 12S ULTRA 12Gb/256Gb
+      Pantalla 6.73"
+      Snapdragon 8+ Gen 1 3.19GHz
+      Cámara 50.3MP+48MP+48MP+TOF
+      Batería 4860 mAh
+    # Xiaomi 12 PRO 12Gb/256Gb
+      Pantalla 6.73"
+      Snapdragon 8 Gen 1 3GHz
+      Cámara 50MP+50MP+50MP
+      Batería 4600 mAh
+    # Xiaomi 12 12Gb/256Gb
+      Pantalla 6.29"
+      Snapdragon 8 Gen 1 3GHz
+      Cámara 50MP+13MP+5MP
+      Batería 4500 mAh
+    # MI 11T  8Gb/256Gb
+      Pantalla 6.67"
+      Mediatek Dimensity 1200 3GHz
+      Cámara 108MP+8MP+5MP
+      Batería 5000 mAh
+    # POCO F7 PRO 12Gb/512Gb
+      Pantalla 6.67"
+      Snapdragon 8 Gen 3 3.3GHz
+      Cámara 50MP+8MP
+      Batería 6000 mAh
+    # POCO F7 PRO 12Gb/256Gb
+      Pantalla 6.67"
+      Snapdragon 8 Gen 3 3.3GHz
+      Cámara 50MP+8MP
+      Batería 6000 mAh
+    # MI 12 LITE  8Gb/128Gb
+      Pantalla 6.55"
+      Snapdragon 778G 2.4GHz
+      Cámara 108MP+8MP+2MP
+      Batería 4300 mAh
+    # POCO F6 PRO 12Gb/512Gb
+      Pantalla 6.67"
+      Snapdragon 8 Gen 2 3.2GHz
+      Cámara 50MP+8MP+2MP
+      Batería 5000 mAh
+    # POCO F4 8Gb/256Gb
+      Pantalla 6.67"
+      Snapdragon 870 5G 3.2GHz
+      Cámara 64MP+8MP+2MP
+      Batería 4500 mAh
+    # POCO X7 PRO 12Gb/512Gb
+      Pantalla 6.67"
+      Mediatek Dimensity 8400 Ultra 3.25GHz
+      Cámara 50MP+8MP
+      Batería 6000 mAh
+    # POCO X7 PRO 8Gb/256Gb
+      Pantalla 6.67"
+      MediaTek Dimensity 8400 Ultra 3.25GHz
+      Cámara 50MP+8MP
+      Batería 6000 mAh
+    # POCO X7 12Gb/512Gb
+      Pantalla 6.67"
+      MediaTek Dimensity 7300 Ultra 2.5GHz
+      Cámara 50MP+8MP+2MP
+      Batería 5110 mAh
+    # POCO X4 PRO 8Gb/256Gb
+      Pantalla 6.67"
+      Snapdragon 695 2.2GHz
+      Cámara 108MP+8MP+2MP
+      Batería 5000 mAh
+    # NOTE 14 PRO + 5G 12Gb/512Gb
+      Pantalla 6.67"
+      Snapdragon 7s Gen 3 2.5GHz
+      Cámara 200MP+8MP+2MP
+      Batería 5110 mAh
+    # NOTE 14 PRO + 5G 8Gb/256Gb
+      Pantalla 6.67"
+      Snapdragon 7s Gen 3 2.5GHz
+      Cámara 200MP+8MP+2MP
+      Batería 5110 mAh
+    # NOTE 14 PRO 5G 8Gb/256Gb
+      Pantalla 6.67"
+      MediaTek Dimensity 7300 Ultra 2.5GHz
+      Cámara 200MP+8MP+2MP
+      Batería 5110 mAh
+    # NOTE 14 PRO 8Gb/256Gb
+      Pantalla 6.67"
+      Mediatek Helio G100 2.2GHz
+      Cámara 200MP+8MP+2MP
+      Batería 5500 mAh
+    # NOTE 14S 8Gb/256Gb
+      Pantalla 6.67"
+      Mediatek Helio G99 Ultra 2.2GHz
+      Cámara 200MP+8MP+2MP
+      Batería 5000 mAh
+    # NOTE 14 5G 8Gb/256Gb
+      Pantalla 6.67"
+      MediaTek Dimensity 7025 Ultra 2.5GHz
+      Cámara 108MP+8MP+2MP
+      Batería 5110 mAh
+    # NOTE 14 8Gb/256Gb
+      Pantalla 6.67"
+      Mediatek Helio G99 Ultra 2.2GHz
+      Cámara 108MP+8MP+2MP
+      Batería 5500 mAh
+    # NOTE 14 6Gb/128Gb
+      Pantalla 6.67"
+      Mediatek Helio G99 Ultra 2.2GHz
+      Cámara 108MP+8MP+2MP
+      Batería 5500 mAh
+    # REDMI 10 5G 4Gb/128Gb
+      Pantalla 6.58"
+      Mediatek Dimensity 700 2.2GHz
+      Cámara 50MP+2MP
+      Batería 5000 mAh
+    # REDMI 9T  4Gb/128Gb
+      Pantalla 6.53"
+      Snapdragon 662 2GHz
+      Cámara 48MP+8MP+2MP+2MP
+      Batería 6000 mAh
+    # REDMI 14C 8Gb/256Gb
+      Pantalla 6.88"
+      Mediatek Helio G81 2GHz
+      Cámara 50MP+AUX
+      Batería 5160 mAh
+    # REDMI 14C 4Gb/256Gb
+      Pantalla 6.88"
+      Mediatek Helio G81 2GHz
+      Cámara 50MP+AUX
+      Batería 5160 mAh
+    # REDMI 14C 4Gb/128Gb
+      Pantalla 6.88"
+      Mediatek Helio G81 2GHz
+      Cámara 50MP+AUX
+      Batería 5160 mAh
+    # REDMI A5 4Gb/128Gb
+      Pantalla 6.88"
+      Unisoc T7250 1.8GHz
+      Cámara 32MP+AUX
+      Batería 5200 mAh
+    # REDMI A5 3Gb/64Gb
+      Pantalla 6.88"
+      Unisoc T7250 1.8GHz
+      Cámara 32MP+AUX
+      Batería 5200 mAh
+    # REDMI A3X 4Gb/128Gb
+      Pantalla 6.79"
+      Unisoc T603 1.8GHz
+      Cámara 8MP+0.8MP
+      Batería 5000 mAh
 
 ## HONOR
 
-    # HONOR 200
-    # HONOR 200
-    # HONOR 200 PRO
-    # HONOR 70
-    # HONOR 50
-    # HONOR MAGIC 400 LITE
-    # HONOR 200 LITE
-    # HONOR MAGIC 7 LITE
-    # HONOR MAGIC 7 LITE
+    # HONOR 200 12Gb/512Gb
+    # HONOR 200 12Gb/256Gb
+    # HONOR 200 PRO 12Gb/512Gb
+    # HONOR 70 8gb/256GB
+    # HONOR 50 8Gb/256Gb
+    # HONOR MAGIC 400 LITE 8Gb/256Gb
+    # HONOR 200 LITE 8Gb/256Gb
+    # HONOR MAGIC 7 LITE 8Gb/512Gb
+    # HONOR MAGIC 7 LITE 8Gb/256
     # HONOR X8C
     # HONOR X7C
     # HONOR X6B PLUS
