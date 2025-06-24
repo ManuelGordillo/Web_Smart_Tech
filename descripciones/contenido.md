@@ -367,48 +367,148 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
 
 ## MOTOROLA
 
-    # EDGE 30 ultra
-    # EDGE 50 FUSION
-    # G85 5G
-    # G75
-    # G15
-    # G15
-    # G05
-    # G04s
-    # E30
-    # E13
-    # E22i
+    # EDGE 30 ultra 12Gb/256Gb
+      Pantalla 6.67"
+      Snapdragon 8+ Gen 1 3.2GHz
+      Cámara 200MP+50MP+12MP
+      Batería 4610 mAh
+    # EDGE 50 FUSION 8Gb/256Gb
+      Pantalla 6.7"
+      Snapdragon 7s Gen 2 2.4GHz
+      Cámara 50MP+13MP
+      Batería 5000 mAh
+    # G85 5G 8Gb/256Gb
+      Pantalla 6.67"
+      Snapdragon 6s Gen 3 2.2GHz
+      Cámara 50MP+8MP
+      Batería 5000 mAh
+    # G75 8gb/256Gb
+      Pantalla 6.78"
+      Snapdragon 6 Gen 3 2.4GHz
+      Cámara 50MP+8MP
+      Batería 5000 mAh
+    # G15 4gb/128Gb-4gb/256Gb
+      Pantalla 6.72"
+      Mediatek Helio G81 Extreme 2GHz
+      Cámara 50MP+5MP
+      Batería 5200 mAh
+    # G05 4gb/128Gb
+      Pantalla 6.67"
+      Mediatek Helio G81 Extreme 2GHz
+      Cámara 50MP
+      Batería 5200 mAh
+    # G04s 4gb/128Gb
+      Pantalla 6.56"
+      Unisoc T606 1.6GHz
+      Cámara 50MP
+      Batería 5000 mAh
+    # E30 2gb/32Gb
+      Pantalla 6.5"
+      Unisoc T700 1.8GHz
+      Cámara 48MP+2MP+2MP
+      Batería 5000 mAh
+    # E13 2gb/64Gb
+      Pantalla 6.5"
+      Unisoc T606 1.6GHz
+      Cámara 13MP
+      Batería 5000 mAh
+    # E22i 2gb/64Gb
+      Pantalla 6.5"
+      Mediatek Helio G37 2.3GHz
+      Cámara 16MP+2MP
+      Batería 4020 mAh
 
 ### Tablets
 
 ## SAMSUNG
 
-    # S10 ultra
-    # S9 ultra
-    # S9 fe
-    # S8 +
-    # S8
-    # S7 fe
-    # S7 fe
-    # S6 lite 2024
-    # S6 lite wifi
-    # S6 lite wifi
-    # S6 lite LTE
-    # TAB A9+ WIFI
-    # TAB A9+ WIFI (+Teclado)
-    # TAB A9
-    # Tab A8 2021
-    # Tab A7 lite wifi
-    # Tab A7 lite LTE
-    # Tab A 2019
-    # Tab E
+    # S10 ultra 12Gb/512Gb
+      Pantalla 14.6"
+      MediaTek Dimensity 9300+ 3.25GHz
+      Cámara 13MP+8MP
+      Batería 11200 mAh
+    # S9 ultra 12Gb/512Gb
+      Pantalla 14.6"
+      Snapdragon 8 Gen 2 for Galaxy 3.36GHz
+      Cámara 13MP+8MP
+      Batería 11200 mAh
+    # S9 fe 6Gb/128GB
+      Pantalla 10.9"
+      Exynos 1380 2.4GHz
+      Cámara 8MP
+      Batería 8000 mAh
+    # S8 + 8Gb/128Gb
+      Pantalla 12.4"
+      Snapdragon 8 Gen 1 3GHz
+      Cámara 13MP+6MP
+      Batería 10090 mAh
+    # S8 8Gb/128Gb
+      Pantalla 11"
+      Snapdragon 8 Gen 1 3GHz
+      Cámara 13MP+6MP
+      Batería 8000 mAh
+    # S7 fe 4Gb/64Gb-6Gb/128Gb
+      Pantalla 12.4"
+      Snapdragon 750G 2.2GHz
+      Cámara 8MP
+      Batería 10090 mAh
+    # S6 lite 2024 4Gb/128Gb
+      Pantalla 10.4"
+      Exynos 1280 octa-core 2.4GHz
+      Cámara 8MP
+      Batería 7040 mAh
+    # S6 lite wifi 4Gb/64Gb-4Gb/128Gb
+      Pantalla 10.4"
+      Exynos 9611 2.3GHz
+      Cámara 8MP
+      Batería 7040 mAh
+    # S6 lite LTE 4Gb/64Gb
+      Pantalla 10.4"
+      Exynos 9611 2.3GHz
+      Cámara 8MP
+      Batería 7040 mAh
+    # TAB A9+ WIFI 4Gb/64Gb
+      Pantalla 11"
+      Snapdragon 695 2.2GHz
+      Cámara 8MP
+      Batería 7040 mAh
+    # TAB A9 4Gb/64Gb
+      Pantalla 8.7"
+      Mediatek Helio G99 2.2GHz
+      Cámara 8MP
+      Batería 5100 mAh
+    # Tab A8 2021 3Gb/32Gb
+      Pantalla 10.5"
+      Unisoc T618 2GHz
+      Cámara 8MP
+      Batería 7040 mAh
+    # Tab A7 lite wifi 3Gb/32Gb
+      Pantalla 8.7"
+      Mediatek Helio P22T 2.3GHz
+      Cámara 8MP
+      Batería 5100 mAh
+    # Tab A7 lite LTE 3Gb/32Gb
+      Pantalla 8.7"
+      Mediatek Helio P22T 2.3GHz
+      Cámara 8MP
+      Batería 5100 mAh
+    # Tab A 2019 2Gb/32Gb
+      Pantalla 8"
+      Snapdragon 429 2GHz
+      Cámara 8MP
+      Batería 5100 mAh
+    # Tab E 1.5Gb/8Gb
+      Pantalla 9.6"
+      Quad Core 1.3GHz
+      Cámara 5MP
+      Batería 5000 mAh
 
 ## APPLE
 
-    # AIR 5ta Gen.
-    # 10 ma. Gen.
-    # 9 na. Gen.
-    # Mini 5 ta. Gen.
+    # AIR 5ta Gen. 64Gb
+    # 10 ma. Gen. 64Gb
+    # 9 na. Gen. 64Gb
+    # Mini 5 ta. Gen. 64Gb
 
 ## LENOVO
 
