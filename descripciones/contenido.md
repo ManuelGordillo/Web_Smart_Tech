@@ -506,56 +506,197 @@ Convertirnos en una tienda de referencia a nivel local en la venta de dispositiv
 ## APPLE
 
     # AIR 5ta Gen. 64Gb
+      Pantalla 10.9"
+      Apple A15 Bionic
+      Cámara 12MP
+      Batería 7729 mAh
     # 10 ma. Gen. 64Gb
+      Pantalla 10.9"
+      Apple A14 Bionic
+      Cámara 12MP
+      Batería 7606 mAh
     # 9 na. Gen. 64Gb
+      Pantalla 10.2"
+      Apple A13 Bionic
+      Cámara 8MP
+      Batería 8557 mAh
     # Mini 5 ta. Gen. 64Gb
+      Pantalla 7.9"
+      Apple A12 Bionic
+      Cámara 8MP
+      Batería 5124 mAh
 
 ## LENOVO
 
-    # P12 WIFI (Teclado y Lapiz)
-    # P11 2 da. Gen. (Teclado y Lapiz)
-    # K11 (Teclado y Lapiz)
-    # Idea Tab pro + audifonos wifi
-    # Yoga tab 11
-    # M11  (Folio Case y pen)
-    # M11 LTE (Folio Case y pen)
-    # M10 PLUS (Case y Pen)
-    # M10 HD 4G 2da. Gen.
-    # M10 HD Wifi 2da Gen.c/Case
-    # M10 1ra. Gen. LTE
-    # M9 LTE (FOLIO CASE)
-    # M9 WIFI (FOLIO CASE)
-    # LENOVO TAB
-    # M8 LTE (FOLIO CASE)
-    # M8 Wifi (FOLIO CASE)
+    # P12 WIFI (Teclado y Lapiz) 8Gb/256Gb
+      Pantalla 12.7"
+      MediaTek Dimensity 7050 2.60GHz
+      Cámara 8MP
+      Batería 10200 mAh
+    # P11 2 da. Gen. (Teclado y Lapiz) S/Datos 6Gb/128Gb
+      Pantalla 11"
+      Qualcomm Snapdragon 662 2GHz
+      Cámara 13MP
+      Batería 7700 mAh
+    # K11 (Teclado y Lapiz) 8Gb/128Gb
+      Pantalla 11"
+      MediaTek Helio G88 2GHz
+      Cámara 13MP
+      Batería 7040 mAh
+    # Idea Tab pro + audifonos wifi 8Gb/256Gb
+      Pantalla 12.7"
+      MediaTek Dimensity 8300 3.35GHz
+      Cámara 13MP
+      Batería 10200 mAh
+    # Yoga tab 11 4Gb/128Gb
+      Pantalla 11"
+      MediaTek Helio G90T 2.05GHz
+      Cámara 8MP
+      Batería 7500 mAh
+    # M11  (Folio Case y pen) 4Gb/128Gb
+      Pantalla 11"
+      MediaTek Helio G88 2GHz
+      Cámara 8MP
+      Batería 7040 mAh
+    # M11 LTE (Folio Case y pen) 8Gb/128Gb
+      Pantalla 11"
+      MediaTek Helio G88 2GHz
+      Cámara 8MP
+      Batería 7040 mAh
+    # M10 PLUS (Case y Pen) 4Gb/128Gb
+      Pantalla 10.3"
+      MediaTek Helio P22 2GHz
+      Cámara 8MP
+      Batería 5100 mAh
+    # M10 HD 4G 2da. Gen. 4Gb/64Gb
+      Pantalla 10.1"
+      MediaTek Helio P22T 2.3GHz
+      Cámara 8MP
+      Batería 5000 mAh
+    # M10 HD Wifi 2da Gen.c/Case 3Gb/32Gb
+      Pantalla 10.1"
+      MediaTek Helio P22T 2.3GHz
+      Cámara 8MP
+      Batería 5000 mAh
+    # M10 1ra. Gen. LTE 2Gb/32Gb
+      Pantalla 10.1"
+      Qualcomm Snapdragon 429 2GHz
+      Cámara 5MP
+      Batería 4850 mAh
+    # M9 LTE (FOLIO CASE) 4Gb/128Gb
+      Pantalla 9"
+      MediaTek Helio G80 2GHz
+      Cámara 8MP
+      Batería 5100 mAh
+    # M9 WIFI (FOLIO CASE) 4Gb/64Gb
+      Pantalla 9"
+      MediaTek Helio G80 2GHz
+      Cámara 8MP
+      Batería 5100 mAh
+    # LENOVO TAB 4Gb/128Gb
+      Pantalla 10.1"
+      MediaTek Helio G85 2GHz
+      Cámara 8MP
+      Batería 5100 mAh
+    # M8 LTE (FOLIO CASE) 4Gb/64Gb
+      Pantalla 8"
+      MediaTek Helio A22 2GHz
+      Cámara 8MP
+      Batería 5100 mAh
+    # M8 Wifi (FOLIO CASE) 4Gb/64Gb
+      Pantalla 8"
+      MediaTek Helio A22 2GHz
+      Cámara 8MP
+      Batería 5100 mAh
 
 ## HONOR
 
-    # PAD X9 4G
-    # PAD X9 WIFI
-    # PAD X8A wifi
-    # X8 WIFI
+    # PAD X9 4G 4Gb/128Gb
+      Pantalla 11.5"
+      Qualcomm Snapdragon 685 2.8GHz
+      Cámara 5MP
+      Batería 7250 mAh
+    # PAD X9 WIFI 4Gb/128Gb
+      Pantalla 11.5"
+      Qualcomm Snapdragon 685 2.8GHz
+      Cámara 5MP
+      Batería 7250 mAh
+    # PAD X8A wifi 4Gb/128Gb
+      Pantalla 11"
+      Qualcomm Snapdragon 680 2.4GHz
+      Cámara 5MP
+      Batería 8300 mAh
+    # X8 WIFI 4Gb/64Gb
+      Pantalla 10.1"
+      MediaTek MT8786 2GHz
+      Cámara 5MP
+      Batería 5100 mAh
 
 ## XIAOMI
 
-    # Redmi Pad 6
-    # Redmi Pad Pro (Lapiz)
-    # Redmi Pad Pro
-    # Redmi Pad
-    # Redmi Pad
-    # Redmi Pad SE
-    # Redmi Pad SE
+    # Redmi Pad 6 8Gb/256Gb
+      Pantalla 11"
+      Qualcomm Snapdragon 870 3.2GHz
+      Cámara 13MP
+      Batería 8840 mAh
+    # Redmi Pad Pro 8Gb/256Gb
+      Pantalla 12.1"
+      Qualcomm Snapdragon 7s Gen2 2.4GHz
+      Cámara 8MP
+      Batería 10000 mAh
+    # Redmi Pad 3Gb/64Gb-4Gb/128Gb
+      Pantalla 10.61"
+      MediaTek Helio G99 2.2GHz
+      Cámara 8MP
+      Batería 8000 mAh
+    # Redmi Pad SE 4Gb/128Gb-8Gb/256Gb
+      Pantalla 11"
+      Qualcomm Snapdragon 680 2.4GHz
+      Cámara 8MP
+      Batería 8000 mAh
 
 ## ADVANCE
 
-    # sp5702 LTE
-    # sp4702 LTE
-    # sp5775 4G
-    # intro tr5995 3G DINO
-    # intro tr7998 3G MONSTER 8'
-    # intro tr7990
-    # intro tr7987 3G MONSTER
-    # pr5850
+    # sp5702 LTE 4Gb/32Gb
+      Pantalla 10.1"
+      Spreadtrum SC9863 1.6GHz
+      Cámara 5MP
+      Batería 5000 mAh
+    # sp4702 LTE 3Gb/32Gb
+      Pantalla 10.1"
+      Spreadtrum SC9863 1.6GHz
+      Cámara 5MP
+      Batería 5000 mAh
+    # sp5775 4G 2Gb/32Gb
+      Pantalla 10.1"
+      Spreadtrum SC9863 1.6GHz
+      Cámara 5MP
+      Batería 5000 mAh
+    # intro tr5995 3G DINO 1Gb/16Gb
+      Pantalla 7"
+      MediaTek MT8321 1.3GHz
+      Cámara 2MP
+      Batería 2500 mAh
+    # intro tr7998 3G MONSTER 8' 1Gb/16Gb
+      Pantalla 8"
+      UNISOC SC7731 1.3GHz
+      Cámara 2MP
+      Batería 4000 mAh
+    # intro tr7990 2Gb/16Gb
+      Pantalla 7"
+      UNISOC SC7731 1.3GHz
+      Cámara 2MP
+      Batería 2800 mAh
+    # intro tr7987 3G MONSTER 1Gb/16Gb
+      Pantalla 7"
+      UNISOC SC7731 1.3GHz
+      Cámara 2MP
+      Batería 2800 mAh
+    # pr5850 1Gb/16Gb
+      Pantalla 7"
+      MediaTek MT8321 1.3GHz
+      Cámara 2MP
+      Batería 2800 mAh
 
 ### Testimonios
 
