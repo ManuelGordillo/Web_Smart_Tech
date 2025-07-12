@@ -13,12 +13,20 @@
     />
     <link rel="stylesheet" href="CSS/general.css" />
     <link rel="stylesheet" href="CSS/style.css" />
+    <link rel="stylesheet" href="CSS/queries.css" />
 
     <title>Smart Tech</title>
   </head>
   <body>
     <header class="header">
-      <img class="logo" src="img/logo/Logo_SmartTech_2.png" alt="Smart logo" />
+      <a href="#">
+        <img
+          class="logo"
+          src="img/logo/Logo_SmartTech_2.png"
+          alt="Smart logo"
+        />
+      </a>
+
       <nav class="main-nav">
         <ul class="main-nav-list">
           <li><a class="main-nav-link" href="#">Como Funciona</a></li>
@@ -207,7 +215,7 @@
           </div>
         </div>
       </section>
-      <section class="section-testimonials grid grid--2-cols">
+      <section class="section-testimonials">
         <div class="testimonials-container">
           <span class="subheading">TESTIMONIOS</span>
           <h2 class="heading-secondary">Clientes Felices</h2>
@@ -302,6 +310,118 @@
           </figure>
         </div>
       </section>
+      <section class="section-cta">
+        <div class="container">
+          <div class="cta">
+            <div class="cta-text-box">
+              <h2 class="heading-secondary">Crea tu usuario/Inicia Sesión</h2>
+              <p class="cta-text">
+                Accede a ofertas escluxivas creando tu usuario
+              </p>
+              <form class="cta-form" action="#">
+                <div>
+                  <label for="full-name">Nombre completo:</label>
+                  <input
+                    id="full-name"
+                    type="text"
+                    placeholder="Manuel Gordillo"
+                    required
+                  />
+                </div>
+                <div>
+                  <label for="email">Correo electrónico</label>
+                  <input
+                    id="email"
+                    type="email"
+                    placeholder="correo@ejemplo.com"
+                    required
+                  />
+                </div>
+
+                <div>
+                  <label for="password">Contraseña:</label>
+                  <input id="password" type="password" required />
+                </div>
+                <button class="btn btn--form">Iniciar Sesión</button>
+                <a href="">Crear Usuario</a>
+                <a href="">Recuperar Contraseña</a>
+              </form>
+            </div>
+            <div class="cta-img-box" role="img" aria-label="Celulares"></div>
+          </div>
+        </div>
+      </section>
     </main>
+    <footer class="footer">
+      <div class="container grid grid--footer">
+        <div class="logo-col">
+          <a href="#" class="footer-logo">
+            <img
+              class="logo"
+              src="img/logo/Logo_SmartTech_2.png"
+              alt="Smart logo"
+            />
+          </a>
+          <ul class="social-links">
+            <li>
+              <a class="footer-link" href=""
+                ><ion-icon class="social-icon" name="logo-instagram"> </ion-icon
+              ></a>
+            </li>
+            <li>
+              <a class="footer-link" href=""
+                ><ion-icon class="social-icon" name="logo-facebook"> </ion-icon
+              ></a>
+            </li>
+          </ul>
+          <p class="copyright">
+            Copyright &copy; 2025 por Manuel Gordillo, todos los derechos
+            reservados
+          </p>
+        </div>
+        <div class="address-col">
+          <p class="footer-heading">Contactanos:</p>
+          <address class="contacto">
+            <p class="address">
+              Dirección: Calle mercaderes 224, C.C El Panorámico of. 106
+            </p>
+            <p>
+              <a class="footer-link" href="tel:9868665..">Teléfono:9868665..</a>
+              <br />
+              <a class="footer-link" href="mailto:smartcelaqp@gmail.com"
+                >smartcelaqp@gmail.com</a
+              >
+            </p>
+          </address>
+        </div>
+        <div class="nav-col">
+          <p class="footer-heading">Cuenta</p>
+          <ul class="footer-nav">
+            <li><a class="footer-link" href="#">Crear cuenta</a></li>
+            <li><a class="footer-link" href="#">Inicia Sesión</a></li>
+            <li><a class="footer-link" href="#">App IOs</a></li>
+            <li><a class="footer-link" href="#">App Android</a></li>
+          </ul>
+        </div>
+        <div class="nav-col">
+          <p class="footer-heading">Empresa</p>
+          <ul class="footer-nav">
+            <li><a class="footer-link" href="#">Acerca de nosotros</a></li>
+            <li><a class="footer-link" href="#">Trabaja con nosotros</a></li>
+            <li><a class="footer-link" href="#">Terminos y condiciones</a></li>
+          </ul>
+        </div>
+        <div class="nav-col">
+          <p class="footer-heading">Recursos</p>
+          <ul class="footer-nav">
+            <li><a class="footer-link" href="#">Manual Celulares</a></li>
+            <li><a class="footer-link" href="#">Manual Tablets</a></li>
+            <li><a class="footer-link" href="#">Soporte Técnico</a></li>
+            <li><a class="footer-link" href="#">App Android</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <script src=" https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js "></script>
   </body>
 </html>

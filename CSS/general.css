@@ -27,14 +27,20 @@ Parrafos por defecto: 1.6
 - Tintes:
     #fdf2e9
     #fae5d3
+    #eb984e
+
 - Sombras:#cf711f
+#45260a
 - Acentos:
 - Grises:
+#888
+#767676 contraste con #fff
+#6f6f6f contraste con #fdf2e9
 #555
 #333
 
 --- 05 SOMBRAS
-
+0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
 --- 06 RADIO DEL BORDE
 Por defecto: 9px
 Medio: 11px
@@ -82,6 +88,10 @@ body {
   row-gap: 9.6rem;
 }
 
+.grid:not(:last-child) {
+  margin-bottom: 9.6rem;
+}
+
 .grid--2-cols {
   grid-template-columns: repeat(2, 1fr);
 }
@@ -92,6 +102,10 @@ body {
 
 .grid--4-cols {
   grid-template-columns: repeat(4, 1fr);
+}
+
+.grid--5-cols {
+  grid-template-columns: repeat(5, 1fr);
 }
 
 .grid--center-v {
@@ -133,6 +147,7 @@ body {
   letter-spacing: 0.75px;
 }
 
+.btn,
 .btn:link,
 .btn:visited {
   display: inline-block;
@@ -142,8 +157,24 @@ body {
   font-weight: 600;
   padding: 1.6rem 3.2rem;
   border-radius: 9px;
+  /* Necesario para btn iniciar sesion */
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
   /*Transición en el estado original*/
   transition: background-color 0.3s;
+}
+
+.btn--form {
+  background-color: #45260a;
+  color: #fdf2e9;
+  align-self: end;
+  padding: 1.2rem;
+}
+
+.btn--form:hover {
+  background-color: #fff;
+  color: #555;
 }
 
 .btn--full:link,
@@ -169,6 +200,14 @@ body {
   /*border: 3px solid white;*/
   /*Añadir borde interior*/
   box-shadow: inset 0 0 0 3px #fff;
+}
+
+*:focus {
+  outline: none;
+  /* outline: 4px dotted #e67e22;
+  outline-offset: 8px; */
+  box-shadow: inset 0 0 0 0.8rem rgba(253, 125, 34, 0.5);
+  padding: 1.6rem;
 }
 
 .margin-right-sm {
