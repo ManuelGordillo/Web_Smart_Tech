@@ -3,6 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Smart Tech tienda de venta de celulares y tablets accesorios wereables"
+    />
+    <link rel="icon" href="img/logo/Logo_SmartTech_2 - copia.png" />
+    <link rel="apple-touch-icon" href="img/logo/touch-apple-icon.png" />
+    <link rel="manifest" href="manifest.webmanifest" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -15,7 +22,7 @@
     <link rel="stylesheet" href="CSS/style.css" />
     <link rel="stylesheet" href="CSS/queries.css" />
 
-    <title>Smart Tech</title>
+    <title>Smart Tech &mdash; Conecta tu mundo</title>
   </head>
   <body>
     <header class="header">
@@ -29,13 +36,17 @@
 
       <nav class="main-nav">
         <ul class="main-nav-list">
-          <li><a class="main-nav-link" href="#">Como Funciona</a></li>
-          <li><a class="main-nav-link" href="#">Catálogo</a></li>
-          <li><a class="main-nav-link" href="#">Testimonios</a></li>
-          <li><a class="main-nav-link" href="#">Ofertas</a></li>
+          <li><a class="main-nav-link" href="#how">Como Funciona</a></li>
+          <li><a class="main-nav-link" href="#catalogo">Catálogo</a></li>
+          <li><a class="main-nav-link" href="#testimonials">Testimonios</a></li>
+          <li><a class="main-nav-link" href="#catalogo">Ofertas</a></li>
           <li><a class="main-nav-link nav-cta" href="#">Compras</a></li>
         </ul>
       </nav>
+      <button class="btn-mobile-nav">
+        <ion-icon class="icon-mobile-nav" name="menu"></ion-icon>
+        <ion-icon class="icon-mobile-nav" name="close"></ion-icon>
+      </button>
     </header>
     <main>
       <section class="section-hero">
@@ -54,7 +65,7 @@
               digital, compromiso con el cliente y constante adaptación a las
               tendencias tecnológicas y de comercio electrónico.
             </p>
-            <a href="#" class="btn btn--full margin-right-sm">Contacto</a>
+            <a href="#cta" class="btn btn--full margin-right-sm">Contacto</a>
             <a href="#" class="btn btn--outline">Comprar &darr;</a>
             <div class="delivered-cel">
               <div class="delivered-faces">
@@ -89,7 +100,7 @@
           </div>
         </div>
       </section>
-      <section class="section-how">
+      <section class="section-how" id="how">
         <div class="container">
           <span class="subheading">Como Funciona</span>
           <h2 class="heading-secondary">Compra en 3 sencillos pasos</h2>
@@ -144,7 +155,7 @@
           </div>
         </div>
       </section>
-      <section class="section-catalogo">
+      <section class="section-catalogo" id="catalogo">
         <div class="container">
           <span class="subheading">Catalogos</span>
           <h2 class="heading-secondary">Variedad de Modelos y Marcas</h2>
@@ -152,13 +163,13 @@
         <div class="container grid grid--3-cols">
           <div class="celulares">
             <img
-              src="img/celulares/Samsung/s25-ultra2.png"
+              src="img/celulares/Samsung/s25-ultra.png"
               class="cell-img"
               alt="S25 ultra"
             />
             <div class="cell-content">
               <div class="cell-tags">
-                <span class="tag">CELULARES</span>
+                <a href="celulares.html"> <span class="tag">CELULARES</span></a>
               </div>
               <p class="cell-title">Catalogo Celulares</p>
               <ul class="cell-atributes">
@@ -171,6 +182,7 @@
               </ul>
             </div>
           </div>
+
           <div class="tablets">
             <img
               src="img/tablets/TABLETS SAMSUNG/s9-ultra.png"
@@ -179,7 +191,7 @@
             />
             <div class="tablet-content">
               <div class="cell-tags">
-                <span class="tag">TABLETS</span>
+                <a href="tablets.html"> <span class="tag">TABLETS</span></a>
               </div>
               <p class="cell-title">Catalogo Tablets</p>
               <ul class="cell-atributes">
@@ -194,13 +206,13 @@
           </div>
           <div class="ofertas">
             <img
-              src="img/celulares/Samsung/s25-ultra2.png"
+              src="img/celulares/Samsung/a52.png"
               class="cell-img"
               alt="S25 ultra"
             />
             <div class="ofert-content">
               <div class="cell-tags">
-                <span class="tag">OFERTAS</span>
+                <a href="ofertas.html"><span class="tag">OFERTAS</span></a>
               </div>
               <p class="cell-title">Catalogo Ofertas</p>
               <ul class="cell-atributes">
@@ -215,7 +227,7 @@
           </div>
         </div>
       </section>
-      <section class="section-testimonials">
+      <section class="section-testimonials" id="testimonials">
         <div class="testimonials-container">
           <span class="subheading">TESTIMONIOS</span>
           <h2 class="heading-secondary">Clientes Felices</h2>
@@ -310,7 +322,7 @@
           </figure>
         </div>
       </section>
-      <section class="section-cta">
+      <section class="section-cta" id="cta">
         <div class="container">
           <div class="cta">
             <div class="cta-text-box">
@@ -343,8 +355,25 @@
                   <input id="password" type="password" required />
                 </div>
                 <button class="btn btn--form">Iniciar Sesión</button>
-                <a href="">Crear Usuario</a>
-                <a href="">Recuperar Contraseña</a>
+                <a href="usuarios.html" class="btn--usuario">Crear Usuario</a>
+                <a href="" class="btn--contrasena">Recuperar Contraseña</a>
+                <div class="modal-overlay--contrasena">
+                  <div class="modal-contenido--contrasena">
+                    <button class="modal-cerrar--contrasena">&times;</button>
+                    <h2 class="modal-titulo--contrasena">
+                      Recuperar contraseña
+                    </h2>
+                    <p class="modal-texto--contrasena">
+                      Ingresa tu correo electrónico
+                    </p>
+                    <input
+                      type="email"
+                      class="modal-input--contrasena"
+                      placeholder="correo@ejemplo.com"
+                    />
+                    <button class="modal-enviar--contrasena">Enviar</button>
+                  </div>
+                </div>
               </form>
             </div>
             <div class="cta-img-box" role="img" aria-label="Celulares"></div>
@@ -375,8 +404,8 @@
             </li>
           </ul>
           <p class="copyright">
-            Copyright &copy; 2025 por Manuel Gordillo, todos los derechos
-            reservados
+            Copyright &copy; <span class="year">2025</span> por Manuel Gordillo,
+            todos los derechos reservados
           </p>
         </div>
         <div class="address-col">
@@ -397,8 +426,10 @@
         <div class="nav-col">
           <p class="footer-heading">Cuenta</p>
           <ul class="footer-nav">
-            <li><a class="footer-link" href="#">Crear cuenta</a></li>
-            <li><a class="footer-link" href="#">Inicia Sesión</a></li>
+            <li>
+              <a class="footer-link" href="usuarios.html">Crear cuenta</a>
+            </li>
+            <li><a class="footer-link" href="#cta">Inicia Sesión</a></li>
             <li><a class="footer-link" href="#">App IOs</a></li>
             <li><a class="footer-link" href="#">App Android</a></li>
           </ul>
@@ -423,5 +454,7 @@
       </div>
     </footer>
     <script src=" https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js "></script>
+    <script src="js/scrip.js"></script>
+    <script src="js/modal.js"></script>
   </body>
 </html>

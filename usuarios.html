@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Smart Tech tienda de venta de celulares y tablets accesorios wereables"
+    />
+    <link rel="icon" href="img/logo/Logo_SmartTech_2 - copia.png" />
+    <link rel="apple-touch-icon" href="img/logo/touch-apple-icon.png" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="CSS/general.css" />
+    <link rel="stylesheet" href="CSS/style.css" />
+    <link rel="stylesheet" href="CSS/queries.css" />
+    <link rel="stylesheet" href="CSS/celulares.css" />
+
+    <title>Smart Tech &mdash; Conecta tu mundo</title>
+  </head>
+  <body>
+    <header class="header">
+      <a href="index.html">
+        <img
+          class="logo"
+          src="img/logo/Logo_SmartTech_2.png"
+          alt="Smart logo"
+        />
+      </a>
+
+      <nav class="main-nav">
+        <ul class="main-nav-list">
+          <li>
+            <a class="main-nav-link" href="index.html#how">Como Funciona</a>
+          </li>
+          <li>
+            <a class="main-nav-link" href="index.html#catalogo">Catálogo</a>
+          </li>
+          <li>
+            <a class="main-nav-link" href="index.html#testimonials"
+              >Testimonios</a
+            >
+          </li>
+          <li>
+            <a class="main-nav-link" href="index.html#catalogo">Ofertas</a>
+          </li>
+          <li><a class="main-nav-link nav-cta" href="#">Compras</a></li>
+        </ul>
+      </nav>
+      <button class="btn-mobile-nav">
+        <ion-icon class="icon-mobile-nav" name="menu"></ion-icon>
+        <ion-icon class="icon-mobile-nav" name="close"></ion-icon>
+      </button>
+    </header>
+    <main>
+      <section class="section-cta" id="cta-usuario">
+        <div class="container">
+          <div class="cta">
+            <div class="cta-text-box">
+              <h2 class="heading-secondary">Crea tu usuario</h2>
+              <p class="cta-text">
+                Accede a ofertas escluxivas creando tu usuario
+              </p>
+              <form class="cta-form" action="#">
+                <div>
+                  <label for="full-name">Nombre completo:</label>
+                  <input
+                    id="full-name"
+                    type="text"
+                    placeholder="Manuel Gordillo"
+                    required
+                  />
+                </div>
+                <div>
+                  <label for="email">Correo electrónico</label>
+                  <input
+                    id="email"
+                    type="email"
+                    placeholder="correo@ejemplo.com"
+                    required
+                  />
+                </div>
+
+                <div>
+                  <label for="number">DNI:</label>
+                  <input id="dni" type="number" required />
+                </div>
+                <div>
+                  <label for="number">Telefono:</label>
+                  <input id="telefono" type="number" required />
+                </div>
+                <div>
+                  <label for="password">Contraseña:</label>
+                  <input id="password" type="password" required />
+                </div>
+                <button class="btn btn--form btn--usuario">
+                  Crear Usuario
+                </button>
+                <a href="usuarios.html" class="btn--cancelar">Cancelar</a>
+              </form>
+            </div>
+            <div class="cta-img-box" role="img" aria-label="Celulares"></div>
+          </div>
+        </div>
+      </section>
+      <!-- Modal -->
+      <div class="modal-overlay" id="modal">
+        <div class="modal">
+          <button class="close-modal" id="cerrar">&times;</button>
+          <h2>Usuario creado exitosamente</h2>
+          <p>Bienvenido a la familia de Smart Tech</p>
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="container grid grid--footer">
+        <div class="logo-col">
+          <a href="#" class="footer-logo">
+            <img
+              class="logo"
+              src="img/logo/Logo_SmartTech_2.png"
+              alt="Smart logo"
+            />
+          </a>
+          <ul class="social-links">
+            <li>
+              <a class="footer-link" href=""
+                ><ion-icon class="social-icon" name="logo-instagram"> </ion-icon
+              ></a>
+            </li>
+            <li>
+              <a class="footer-link" href=""
+                ><ion-icon class="social-icon" name="logo-facebook"> </ion-icon
+              ></a>
+            </li>
+          </ul>
+          <p class="copyright">
+            Copyright &copy; <span class="year">2025</span> por Manuel Gordillo,
+            todos los derechos reservados
+          </p>
+        </div>
+        <div class="address-col">
+          <p class="footer-heading">Contactanos:</p>
+          <address class="contacto">
+            <p class="address">
+              Dirección: Calle mercaderes 224, C.C El Panorámico of. 106
+            </p>
+            <p>
+              <a class="footer-link" href="tel:9868665..">Teléfono:9868665..</a>
+              <br />
+              <a class="footer-link" href="mailto:smartcelaqp@gmail.com"
+                >smartcelaqp@gmail.com</a
+              >
+            </p>
+          </address>
+        </div>
+        <div class="nav-col">
+          <p class="footer-heading">Cuenta</p>
+          <ul class="footer-nav">
+            <li><a class="footer-link" href="#">Crear cuenta</a></li>
+            <li><a class="footer-link" href="#">Inicia Sesión</a></li>
+            <li><a class="footer-link" href="#">App IOs</a></li>
+            <li><a class="footer-link" href="#">App Android</a></li>
+          </ul>
+        </div>
+        <div class="nav-col">
+          <p class="footer-heading">Empresa</p>
+          <ul class="footer-nav">
+            <li><a class="footer-link" href="#">Acerca de nosotros</a></li>
+            <li><a class="footer-link" href="#">Trabaja con nosotros</a></li>
+            <li><a class="footer-link" href="#">Terminos y condiciones</a></li>
+          </ul>
+        </div>
+        <div class="nav-col">
+          <p class="footer-heading">Recursos</p>
+          <ul class="footer-nav">
+            <li><a class="footer-link" href="#">Manual Celulares</a></li>
+            <li><a class="footer-link" href="#">Manual Tablets</a></li>
+            <li><a class="footer-link" href="#">Soporte Técnico</a></li>
+            <li><a class="footer-link" href="#">App Android</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <script src=" https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js "></script>
+    <script src="js/modal.js"></script>
+  </body>
+</html>
